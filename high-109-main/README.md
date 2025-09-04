@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Hamza Sajid👋<a href="https://hammad-air.github.io/hamza/"></h1>
+    <h1> Hi there, I'm sadam hussain👋<a href="https://hammad-air.github.io/hamza/"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
@@ -9,9 +9,7 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Studying at @ZABIST 🤖
-	
-👨‍💻 AI Engineer CargoAI
+🤵 Studying at @SMIT 
 	
 💸 Help 80+ Clients via Generative AI & Automation
 
@@ -29,7 +27,7 @@
         <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  >
     </td>
  <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fnextjs-icon-dark-background.png?alt=media&token=fe7213b5-5848-4391-b293-77118f3cb456">
+        <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Fj0zoSD0e4V7siSTI221US9cMrtjc8A2og&s>
     </td>
  <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
